@@ -12,7 +12,7 @@ virtualenv --python=python3 venv
 source venv/bin/activate
 
 # clone the repo
-git clone https://github.com/kayoyin/transformer-slt.git
+git clone https://github.com/anonymous-slt/transformer-slt.git
 cd transformer-slt
 
 # install python dependencies
